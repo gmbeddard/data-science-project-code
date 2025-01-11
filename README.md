@@ -26,6 +26,7 @@ As a part of our work for our women's health-focused startup, Saha, we developed
 #### Repository Content
 - **Code**: Scripts for data cleaning, visualization, and model building are in the `src` folder.
 - **Datasets**: Processed data files and links to raw NHANES datasets.
+- **Google Collab Link**: We worked primarily on Google Collab and detailed our step-by-step process there. Here is the link: https://colab.research.google.com/drive/1wN9cWJCsdpCtSKAjW27ydoC0j2d6-7zk?usp=sharing.
 
 #### Authors
 Gabby Beddard, Camille Gimilaro
