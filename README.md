@@ -1,4 +1,4 @@
-### EM255 Intro to Data Science Final Project: An Analysis on Endometriosis in South Asian Women
+### EM212 Intro to Data Science Final Project: An Analysis on Endometriosis in South Asian Women
 
 #### Project Overview
 As a part of our work for our women's health-focused startup, Saha, we developed a model investigating the factors influencing endometriosis in South Asian women. We focused on symptoms such as infertility, menstrual irregularities, blood pressure, and depression. The study also examines socioeconomic impacts on healthcare access in the U.S., particularly regarding the diagnosis and treatment of endometriosis. Using the National Health and Nutrition Examination Survey (NHANES) dataset (2005-2006 cycle), the project employs data science and machine learning techniques to explore patterns, build predictive models, and derive actionable insights.
